@@ -9,20 +9,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.appprsft.gac.materialdesingapp.MainActivity">
-
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:srcCompat="@drawable/o9an7gwseeaaqg5mseyjiq_521424d79698bfb8722baa94062502d9_revisionporpares1_curso3"
-        android:id="@+id/imageView"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:contentDescription=""
-        tools:ignore="ContentDescription" />
+    tools:context="com.appprsft.gac.materialdesingapp.MainActivity"
+    android:background="@drawable/o9an7gwseeaaqg5mseyjiq_521424d79698bfb8722baa94062502d9_revisionporpares1_curso3">
 
     <ProgressBar
         style="@android:style/Widget.Material.Light.ProgressBar"
